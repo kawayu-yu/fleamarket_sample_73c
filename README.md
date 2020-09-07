@@ -8,7 +8,7 @@ TECH:CAMPで、チーム開発(アジャイル開発)を行い作成したフリ
 ## URL
 http://54.168.66.180/
 
-■ Basic認証
+■ Basic認証<br>
 ID：admin<br>
 Pass：73c
 
