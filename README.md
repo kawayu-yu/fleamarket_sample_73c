@@ -1,27 +1,46 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+TECH:CAMPで、チーム開発(アジャイル開発)を行い作成したフリマアプリです。
+  ・トップページ
+  ![トップページ](https://user-images.githubusercontent.com/63997771/92347533-574fc000-f10b-11ea-8d71-dd1d1bbaf7e0.png)
 
-Things you may want to cover:
+## URL
+http://54.168.66.180/
 
-* Ruby version
+■ Basic認証
+ID：admin
+Pass：73c
 
-* System dependencies
+■ テスト用アカウント
+◯ 購入者用  
+メールアドレス：ssss@zzz.gmail.com  
+パスワード：05161212s
+◯ 購入用カード情報  
+番号：4242424242424242  
+期限：01/24  
+セキュリティカード：111
+◯ 出品者用  
+メールアドレス：aaaa@yyy.gmail.com  
+パスワード：12121985a
 
-* Configuration
+## 担当箇所
+■ DB設計
 
-* Database creation
+■ 商品詳細ページ・商品詳細表示
+![詳細ページ](https://user-images.githubusercontent.com/63997771/92351195-f5488800-f115-11ea-88b5-c4370d2c4968.gif)
 
-* Database initialization
+■ 商品についての質問・コメント機能
+![コメント機能](https://user-images.githubusercontent.com/63997771/92351258-21fc9f80-f116-11ea-909e-25db635777d2.gif)
 
-* How to run the test suite
+■ 商品情報編集
+![商品編集機能](https://user-images.githubusercontent.com/63997771/92351546-f4fcbc80-f116-11ea-95bf-470885a109e9.gif)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 詳細
+https://docs.google.com/document/d/1GI6LzkQjPPER8o1e_rCwHclvVKQMP-gwvEq9Rr6gp-A/edit#heading=h.uc9r1bu1xm1f
 
-* Deployment instructions
 
-* ...
+## DB設計
 ## usersテーブル
 |Column|Type|Options|
 |------|----|-------|
